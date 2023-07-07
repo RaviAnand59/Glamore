@@ -11,9 +11,10 @@
  
  # About The Project
  
-![h1](https://github.com/RaviAnand59/Glamore/assets/119591464/b1cba486-d65a-4c7c-8613-50d7eef61385)      
+      
+![h1](https://github.com/RaviAnand59/Glamore/assets/119591464/d667e4ac-4cd1-4f6d-b1ba-484e387cbca0)
+![h2](https://github.com/RaviAnand59/Glamore/assets/119591464/9fb36fe4-bfc0-48b8-9931-844dc673ee30)
 
-![h2](https://github.com/RaviAnand59/Glamore/assets/119591464/f94fb92f-a027-4d4f-82a4-a70acf78a01d)
 
 
 
@@ -51,7 +52,8 @@
 ### Easy navigation and high-quality images
  You can effortlessly navigate diverse fashion product categories, accompanied by high-quality images and choose your desired item with confidence.
 
- ![h3](https://github.com/RaviAnand59/Glamore/assets/119591464/f046f4d3-0f41-407a-8560-8b0fc6b10229)
+ 
+![h3](https://github.com/RaviAnand59/Glamore/assets/119591464/454bd0bc-5a30-45ee-895e-c82a1804331a)
 
   <br/>
   
@@ -62,8 +64,9 @@
 ### Admin Portal
  Admin Portal has also been implemented which allows the users to effortlessly add images to the categories of your choice, making it convenient to expand and update the selection of products on the website.
   <br/>
-  
-![h5](https://github.com/RaviAnand59/Glamore/assets/119591464/5202bf84-b4e3-421a-871f-5c5d1a575382)
+  ![h5](https://github.com/RaviAnand59/Glamore/assets/119591464/fe66bc60-8dde-463d-a06c-0c75634cc4b1)
+
+
 
  <br/>
 
@@ -72,7 +75,8 @@ With the inclusion of a user-friendly shopping cart, you can easily view and man
  <br/>
  
 
-![h6](https://github.com/RaviAnand59/Glamore/assets/119591464/36e0081a-6abe-4291-9a01-23e37e8b2621)
+
+![h6](https://github.com/RaviAnand59/Glamore/assets/119591464/08519cf0-f678-45cd-a622-84f23c3ba099)
 
 
 <br/>
